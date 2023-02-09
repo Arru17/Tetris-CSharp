@@ -1,0 +1,12 @@
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\bin\Debug\Lab4_Tetris.exe.config
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\bin\Debug\Lab4_Tetris.exe
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\bin\Debug\Lab4_Tetris.pdb
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.csprojAssemblyReference.cache
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.Properties.Resources.resources
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.vista.VistaInicio.resources
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.vista.VistaJuego.resources
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.vista.VistaPrincipal.resources
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.csproj.GenerateResource.cache
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.exe
+C:\Users\arru\Desktop\labs oveja\Oveja\lab c#\lab4_19423238_RuzJimenez\Lab4_Tetris\Lab4_Tetris\obj\Debug\Lab4_Tetris.pdb
